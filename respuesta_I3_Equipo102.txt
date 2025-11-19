@@ -1,0 +1,9 @@
+A. El master queda fusionado con los archivos de los otros branches.
+B. Si, Beta pudo ver todos los cambios realizados.
+C.
+git branch -r (Ver las branches que hay)
+git checkout main (Cambiar a la branch de main)
+git merge Rocca (Trae los archivos del branch de Gamma al main local)
+git add .
+git commit -m "BETA: Merge con ROCCA"
+git push origin main (Enviar el push al main branch)
