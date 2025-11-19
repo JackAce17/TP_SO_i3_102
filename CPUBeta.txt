@@ -1,0 +1,3 @@
+Model:  Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz
+Cores: 8
+Vendor:  GenuineIntel
