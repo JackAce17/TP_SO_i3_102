@@ -1,0 +1,2 @@
+Name              NumberOfCores  NumberOfLogicalProcessors
+AMD Ryzen 5 5500  6              12
