@@ -13,3 +13,13 @@ E. Uno de los problemas que tuvimos fue que de la rama argento pase al main y al
 nos tiro error ya que no habia actualizaciones y nos estaba faltando el pull desde la rama ARGENTO
 F.Primero hice un pull , luego git branch -r para ver la lista de ramas y luego checkout ARGENTO
 y ya pude editar el archivo
+
+G.
+
+git pull (Actualizar el contenido que tenia descargado de forma local)
+git Branch -r (Para ver las ramas disponibles)
+git checkout ARGENTO (para cambiar a la rama ARGENTO)
+Actualice el contenido del archivo y luego hice
+Git add . 
+git commit -m 
+git push
