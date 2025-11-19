@@ -7,3 +7,9 @@ git merge Rocca (Trae los archivos del branch de Gamma al main local)
 git add .
 git commit -m "BETA: Merge con ROCCA"
 git push origin main (Enviar el push al main branch)
+
+D. No , solamente quedo actualizada la rama a la que se le hizo merge con el main
+E. Uno de los problemas que tuvimos fue que de la rama argento pase al main y al hacer el merge
+nos tiro error ya que no habia actualizaciones y nos estaba faltando el pull desde la rama ARGENTO
+F.Primero hice un pull , luego git branch -r para ver la lista de ramas y luego checkout ARGENTO
+y ya pude editar el archivo
