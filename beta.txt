@@ -44,3 +44,41 @@ Adaptador de Ethernet Ethernet 3:
 HORA: 18:14
 
 
+Gabriel Berberian
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::b608:e7cf:992e:d2c2%16
+   Dirección IPv4. . . . . . . . . . . . . . : 193.161.54.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 9:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::1c51:ec98:1d20:221c%12
+   Dirección IPv4. . . . . . . . . . . . . . : 193.164.1.102
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 152.148.0.1
+
+Hora: 18:16
+
