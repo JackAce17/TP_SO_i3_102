@@ -22,3 +22,25 @@
        valid_lft forever preferred_lft forever
 
 Tiempo: 18:09
+
+ROCCA ELIAS 
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : fibertel.com.ar
+   Vínculo: dirección IPv6 local. . . : fe80::f808:5221:adac:611e%5
+   Dirección IPv4. . . . . . . . . . . . . . : 192.162.0.46
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Adaptador de Ethernet Ethernet 3:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::109b:6a62:f4ad:1621%14
+   Dirección IPv4. . . . . . . . . . . . . . : 192.162.54.2
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+HORA: 18:14
+
+
